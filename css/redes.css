@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+    padding: 0px;
+    justify-content: center;
+}
+
+.redes{
+    background-color:#F1B9EF;
+    width: 100%;
+    height: 200px;
+    border-top: 1px black solid;
+}
+
+.twitter{
+    
+    float: left;
+    margin-left: 22.5%;
+    margin-top: 5%;
+    color: brown;
+    font-size: 50px;
+    -webkit-transition: transform .5s;
+	-webkit-transition: transform .5s;
+}
+
+p{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+a:hover .twitter{
+
+    transform: scale(1.5);
+}
